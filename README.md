@@ -3,6 +3,7 @@
 ## Overview
 This project focuses on real-time translation of spoken language using advanced speech recognition and language processing models. The application utilizes the Whisper model for transcribing speech in real-time, providing immediate translation and transcription.
 
+![Project Image](real_time_translation.png)
 
 ## Project Details
 ### Objective
